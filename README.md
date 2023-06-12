@@ -4,25 +4,8 @@ Welcome to the **Python Data Projects** repository! This repository contains a c
 
 ## Project List
 
-1. **Scraping**
-   - [Project 1](scraping/project1): Description of the project.
-   - [Project 2](scraping/project2): Description of the project.
-   - [Project 3](scraping/project3): Description of the project.
-
-2. **Analysis**
-   - [Project 1](analysis/project1): Description of the project.
-   - [Project 2](analysis/project2): Description of the project.
-   - [Project 3](analysis/project3): Description of the project.
-
-3. **Cleaning**
-   - [Project 1](cleaning/project1): Description of the project.
-   - [Project 2](cleaning/project2): Description of the project.
-   - [Project 3](cleaning/project3): Description of the project.
-
-4. **Visualization**
-   - [Project 1](visualization/project1): Description of the project.
-   - [Project 2](visualization/project2): Description of the project.
-   - [Project 3](visualization/project3): Description of the project.
+1. **Projects**
+   - [Project 1](scraping/project1): Web Scraping and Analysis Notebook - Jobs in Data, Credit, and Analytics.
 
 ## Getting Started
 
@@ -37,4 +20,3 @@ Contributions to this repository are welcome! If you have any ideas or improveme
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational or personal projects.
 
 We hope you find these Python data projects helpful and informative. Happy coding!
-
