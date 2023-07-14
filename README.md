@@ -5,7 +5,8 @@ Welcome to the **Python Data Projects** repository! This repository contains a c
 ## Project List
 
 1. **Projects**
-   - [Project 1](scraping/project1): Web Scraping and Analysis Notebook - Jobs in Data, Credit, and Analytics.
+	- [Project 1](Web%20Scraping%20and%20Analysis%20Notebook%20-%20Jobs%20in%20Data%2C%20Credit%2C%20and%20Analytics.ipynb): Web Scraping and Analysis Notebook - Jobs in Data, Credit, and Analytics.
+	- [Project 2](Analyzing%20William%20Ruto's%20Twitter%20Data%20-%20A%20Twitter%20Data%20Scraping%20Notebook.ipynb): Web Scraping and Analysis Notebook - Jobs in Data, Credit, and Analytics.
 
 ## Getting Started
 
